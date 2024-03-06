@@ -1,0 +1,3 @@
+[submodule "davila-app"]
+	path = davila-app
+	url = https://github.com/Syaukani-dev/davila-app
